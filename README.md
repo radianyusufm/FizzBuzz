@@ -1,7 +1,7 @@
-##FizzBuzz
+# FizzBuzz
 
-######jika kelipatan tiga Print ( Fizz).
+**_jika kelipatan tiga Print ( Fizz)._**
 
-######jika kelipatan lima Print ( Buzz).
+**_jika kelipatan lima Print ( Buzz)._**
 
-######jika kelipatan tiga dan lima Print(FizzBuzz).
+**_jika kelipatan tiga dan lima Print(FizzBuzz)._**
